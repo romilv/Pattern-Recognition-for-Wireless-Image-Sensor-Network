@@ -1,4 +1,4 @@
-WirelessImageSensorNetwork
+Pattern Recognition Software for Wireless Image Sensor Network
 ==========================
 
 Written in October 2011

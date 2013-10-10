@@ -11,4 +11,4 @@ Finding overlaps in transmission of images between several sensors can help inst
 
 Quality assessment tests are run on predetermined datasets to ensure standards for this pattern recoginition tool.
 
-Image datasets to run simulations on available upon request
+Image datasets to run simulations on and statistical reports generated are available upon request.
